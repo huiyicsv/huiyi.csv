@@ -1,0 +1,6 @@
+{
+  "name": "Compound Interest Calculator",
+  "description": "An interactive compound interest calculator for Malaysian personal finance, with EPF, ASB, and market benchmark comparisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
